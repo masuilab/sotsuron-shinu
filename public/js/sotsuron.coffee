@@ -3,7 +3,7 @@ LIMITS =
 #  titleChange1:     new Date(2012, 6,22,16,50)
 #  midPresentation:  new Date(2012, 9,20, 9,30)
 #  titleChangeLast:  new Date(2012,11,14,16,50)
-  thesisSubmit:     new Date(2014, 0,20,23,59)
+  thesisSubmit:     new Date(2015, 0,20,23,59)
 #  lastPresentation: new Date(2013, 0,31, 9,30)
 
 showLimit = ->
